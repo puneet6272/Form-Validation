@@ -1,0 +1,25 @@
+.set-perent {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4px;
+
+}
+
+label {
+    /* border: 2px solid gray; */
+    height: 40px;
+    width: 80%;
+    color: white;
+}
+
+input {
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 40px;
+    width: 80%;
+    color: wheat;
+
+}
